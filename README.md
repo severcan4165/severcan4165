@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+[blueberry]: https://github-readme-stats.vercel.app/api?username=severcan4165&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blueberry
 - 😄 Pronouns: ...
 nightowl
 
 - ⚡ Fun fact: ...
 HTML/CSS/SASS/JS. Currently Mastering React,
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=severcan4165&show_icons=true&theme=transparent)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=severcan4165&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=severcan4165)](https://github.com/severcan4165/github-readme-stats)
 ![Snake animation](https://github.com/severcan4165/severcan4165/blob/output/github-contribution-grid-snake.svg)
-[blueberry]: https://github-readme-stats.vercel.app/api?username=severcan4165&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blueberry
+
