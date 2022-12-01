@@ -1,6 +1,6 @@
 
+![Header](./salih.png])
 
-<div> <img src="C:\Users\Salih\Downloads\github-header-image.png" /></div>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=severcan4165&label=Profile%20views&color=0e75b6&style=flat" alt="severcan4165" /> </p>
