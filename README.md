@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 HTML/CSS/SASS/JS. Currently Mastering React,
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=severcan4165)](https://github.com/severcan4165/github-readme-stats)
 ![Snake animation](https://github.com/severcan4165/severcan4165/blob/output/github-contribution-grid-snake.svg)
