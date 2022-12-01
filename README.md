@@ -1,5 +1,5 @@
 
-![Header](./salih2.png)
+![Header](./salih3.png)
 
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
