@@ -29,7 +29,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=severcan4165)](https://github.com/severcan4165/github-readme-stats) -->
 ![Snake animation](https://github.com/severcan4165/severcan4165/blob/output/github-contribution-grid-snake.svg)
 
-   ![] (https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=severcan4165&theme=vue)
+ (https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=severcan4165&theme=vue)
 
 <br />
 
