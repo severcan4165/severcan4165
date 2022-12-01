@@ -34,7 +34,7 @@
 <br />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=severcan4165&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=severcan4165&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 <br />
 
