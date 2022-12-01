@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Salih</h1>
+<div> <img src="C:\Users\Salih\Downloads\github-header-image.png" /></div>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=severcan4165&label=Profile%20views&color=0e75b6&style=flat" alt="severcan4165" /> </p>
@@ -29,10 +29,13 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=severcan4165)](https://github.com/severcan4165/github-readme-stats) -->
 ![Snake animation](https://github.com/severcan4165/severcan4165/blob/output/github-contribution-grid-snake.svg)
 
-
+<br />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=severcan4165&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
+
+<br />
+
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=severcan4165&theme=chartreuse-dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="severcan4165" /></p>
 
