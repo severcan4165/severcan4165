@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=severcan4165&label=Profile%20views&color=0e75b6&style=flat" alt="severcan4165" /> </p>
 
 - 🔭 I’m currently working on **Mastering React**
-
+- 🌱 I’m currently looking for the opportunity to gain first experience as a front end developer.
 - 📫 How to reach me **salihsevercann@gmail.com**
 - 
 <h3 align="left">Connect with me:</h3>
