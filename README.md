@@ -1,13 +1,13 @@
 
-<div align="center">
+
 <h1 align="center">Hi 👋, I'm Salih</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=severcan4165&label=Profile%20views&color=0e75b6&style=flat" alt="severcan4165" /> </p>
 
-- 🔭 I’m currently working on **Mastering React**
-- 🌱 I’m currently looking for the opportunity to gain first experience as a front end developer.
-- 📫 How to reach me **salihsevercann@gmail.com**
+🔭 I’m currently working on **Mastering React**
+🌱 I’m currently looking for the opportunity to gain first experience as a front end developer.
+📫 How to reach me **salihsevercann@gmail.com**
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +20,7 @@
 
 <br />
 
-
+<div align="center">
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=severcan4165&show_icons=true&theme=chartreuse-dark) -->
 
@@ -46,5 +46,5 @@
   
   [![Severcan's github activity graph](https://activity-graph.herokuapp.com/graph?username=severcan4165&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=severcan4165&theme=vision-friendly-dark&hide_border=true" /> 
-  </div>
+
+</div>
