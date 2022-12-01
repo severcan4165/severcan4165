@@ -47,7 +47,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=severcan4165&t&theme=chartreuse-dark&hide_border=true&show_icons=true&locale=en" alt="severcan4165" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=severcan4165&theme=chartreuse-dark&hide_border=true" alt="severcan4165" /></p>
+
   
 
   
