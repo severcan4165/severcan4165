@@ -37,3 +37,23 @@
 ![Snake animation](https://github.com/severcan4165/severcan4165/blob/output/github-contribution-grid-snake.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=severcan4165&" alt="severcan4165" /></p>
+
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=severcan4165&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
+  
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=severcan4165&theme=chartreuse-dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="severcan4165" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=severcan4165&t&theme=chartreuse-dark&hide_border=true&show_icons=true&locale=en" alt="severcan4165" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=severcan4165&theme=chartreuse-dark&hide_border=true" alt="severcan4165" /></p>
+  
+
+  
+  [![Severcan's github activity graph](https://activity-graph.herokuapp.com/graph?username=severcan4165&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=severcan4165&theme=vision-friendly-dark&hide_border=true" /> 
+  </div>
