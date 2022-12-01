@@ -52,6 +52,24 @@
 
   
   [![Severcan's github activity graph](https://activity-graph.herokuapp.com/graph?username=severcan4165&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
+
+<p align="center">
+	<a href="https://github.com/severcan4165"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/ahmet-salih-severcan"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	
+</p>
+
+<p align="center"><b> Thank You for visiting my profile 🙏</b></p>
+
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{severcan4165}/count.svg" /></p> 
+<br>
+</div>
+
   
 
 </div>
