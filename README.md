@@ -7,7 +7,7 @@
 
 <p>🔭 I’m currently working on **Mastering React**</p>
 <p>🌱 I’m currently looking for the opportunity to gain first experience as a front end developer.</p>
-<p>📫 How to reach me <a>salihsevercann@gmail.com</a></p>
+<p>📫 How to reach me <a href="#">salihsevercann@gmail.com</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
